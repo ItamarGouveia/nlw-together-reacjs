@@ -12,7 +12,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Você irá precisar das seguintes ferramentas no seu PC
 - [Node + NPM](https://nodejs.org/en/)
 - [Yarn](https://yarnpkg.com/)
-- [Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio Code](https://github.com/ItamarGouveia/nlw-together-reacjs/blob/main/vscode.md)
 
 ## Configurações do Vscode
 ```bash
