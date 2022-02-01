@@ -1,4 +1,4 @@
-# Next Level Week - Trilha React JS
+# Next Level Week Together - Trilha React JS
 
 
 ## 🧪 Tecnologias
